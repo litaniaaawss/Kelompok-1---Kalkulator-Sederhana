@@ -33,3 +33,11 @@ while True:
     print("5. Keluar")
 
     pilihan = input("Masukkan pilihan 1/2/3/4/5: ")
+
+if pilihan == '5':
+    print("anda keluar dari kalkulator")
+    break
+
+angka1 = float(input("Masukkan angka pertama: "))
+angka2 = float(input("Masukkan angka kedua: "))
+
