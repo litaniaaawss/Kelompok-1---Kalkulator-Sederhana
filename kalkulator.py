@@ -44,7 +44,8 @@ def pembagian (a, b):
             hasil = pembagian(angka1, angka2)
             print ("hasil pembagian =", hasil)
         else :
-            print("anda tidak memasukan pilihan")
+           print("Pilihan tidak valid. Silakan masukkan pilihan yang sesuai.")
+
 
 
 
