@@ -24,3 +24,12 @@ def pembagian(a, b):
 print("---Kalkulator Sederhana---")
 print("--------------------------")
 
+while True:
+    print("Pilih operasi:")
+    print("1. Penjumlahan")
+    print("2. Pengurangan")
+    print("3. Perkalian")
+    print("4. Pembagian")
+    print("5. Keluar")
+
+    pilihan = input("Masukkan pilihan 1/2/3/4/5: ")
