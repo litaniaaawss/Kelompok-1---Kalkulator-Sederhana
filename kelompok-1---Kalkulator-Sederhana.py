@@ -41,3 +41,17 @@ if pilihan == '5':
 angka1 = float(input("Masukkan angka pertama: "))
 angka2 = float(input("Masukkan angka kedua: "))
 
+if pilihan == '1'
+    hasil = penjumlahan(angka1, angka2)
+    print("hasil penjumlahan:", hasil)
+elif pilihan == '2':
+     hasil = pengurangan(angka1, angka2)
+     print("Hasil pengurangan:", hasil)
+elif pilihan == '3':
+     hasil = perkalian(angka1, angka2)
+     print("Hasil perkalian:", hasil)
+elif pilihan == '4':
+     hasil = pembagian(angka1, angka2)
+     print("Hasil pembagian:", hasil)
+else:
+     print("Pilihan tidak valid. Silahkan masukkan pilihan yang sesuai.")
