@@ -2,7 +2,7 @@
 # Vikenza Slat 250211060014
 # Litania Supit 250211060018
 # Syaloom Keintjem 250211060027
-# Kristania Manorek 2502110600
+# Kristania Manorek 250211060025
 
 #---Kalkulator Sederhana---
 
@@ -23,3 +23,4 @@ def pembagian(a, b):
 
 print("---Kalkulator Sederhana---")
 print("--------------------------")
+
