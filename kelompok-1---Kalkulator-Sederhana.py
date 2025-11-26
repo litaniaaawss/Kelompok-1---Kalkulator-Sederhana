@@ -2,7 +2,7 @@
 # Vikenza Slat 250211060014
 # Litania Supit 250211060018
 # Syaloom Keintjem 250211060027
-# Kristania Manorek 250211060025
+# Kristania Manorek 2502110600
 
 #---Kalkulator Sederhana---
 
@@ -34,3 +34,24 @@ while True:
 
     pilihan = input("Masukkan pilihan 1/2/3/4/5: ")
 
+    if pilihan == '5':
+        print("anda keluar dari kalkulator")
+        break
+
+    angka1 = float(input("Masukkan angka pertama: "))
+    angka2 = float(input("Masukkan angka kedua: "))
+
+    if pilihan == '1':
+        hasil = penjumlahan(angka1, angka2)
+        print("Hasil penjumlahan:", hasil)
+    elif pilihan == '2':
+        hasil = pengurangan(angka1, angka2)
+        print("Hasil pengurangan:", hasil)
+    elif pilihan == '3':
+        hasil = perkalian(angka1, angka2)
+        print("Hasil perkalian:", hasil)
+    elif pilihan == '4':
+        hasil = pembagian(angka1, angka2)
+        print("Hasil pembagian:", hasil)
+    else:
+        print("Pilihan tidak valid. Silakan masukkan pilihan yang sesuai.")
