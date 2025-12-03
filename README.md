@@ -37,3 +37,38 @@ pip install -r requirements.txt
 ```sh
 python kalkulator.py
 ```
+
+## Running Guide
+setelah melakukan instalasi, hal selanjutnya yang perlu dilakukan adalah menjalankan program tersebut. Berikut adalah panduan menjalankan program ini
+
+1. Jalankan program dengan python
+```sh
+python kalkulator.py
+```
+2. program akan berjalan di terminal dengan menampilkan menu kalkulator
+```sh
+---Kalkulator Sederhana---
+--------------------------
+Pilih operasi:
+1. Penjumlahan
+2. Pengurangan
+4. Pembagian
+3. Perkalian
+5. Keluar
+```
+3. Memilih Fitur yang akan di gunakan
+```sh
+masukan pilihan 1/2/3/4/5:
+```
+4. Memasukan angka pertama
+```sh
+Masukan angka pertama:
+```
+5. setelah memasukan angka pertama, program akan meminta untuk memasukan angka kedua 
+```sh
+Masukan angka kedua:
+```
+6. Setelah memasukan angka ke 2, program akan menampilkan hasil perhitungan sesuai fitur yang dipilih 
+```sh
+Hasil (fitur yang dipilih) : (hasil)
+```
