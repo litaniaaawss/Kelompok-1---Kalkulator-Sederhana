@@ -72,3 +72,18 @@ Masukan angka kedua:
 ```sh
 Hasil (fitur yang dipilih) : (hasil)
 ```
+
+
+## flowchart 
+klik link di bawah ini untuk mengakses flowchart
+[flowchart Kalkulator sederhana](https://drive.google.com/file/d/1rkHwXP8VdeRNsKZF0NYu_-qFfquUz0Ss/view?usp=sharing)
+
+## Contributor List
+| No | Nama Anggota | NIM | Link Akun GitHub |
+|----|----------------|-----|------------------|
+| 1  | Vikenza Slat | 250211060014 | https://github.com/ken3680 |
+| 2  | Litania Supit       | 250211060018 | https://github.com/litaniaaawss |
+| 3  | Kristania Manorek       | 250211060025 | https://github.com/kristaniamanorek |
+| 4  | Syaloom Keintjem       | 250211060027 | https://github.com/syaloomjoykeintjem |
+
+thankyouu-!
