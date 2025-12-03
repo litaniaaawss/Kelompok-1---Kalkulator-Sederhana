@@ -75,7 +75,7 @@ Hasil (fitur yang dipilih) : (hasil)
 
 
 ## flowchart 
-klik link di bawah ini untuk mengakses flowchart
+klik link di berikut ini untuk mengakses flowchart -> 
 [flowchart Kalkulator sederhana](https://drive.google.com/file/d/1rkHwXP8VdeRNsKZF0NYu_-qFfquUz0Ss/view?usp=sharing)
 
 ## Contributor List
